@@ -4,6 +4,7 @@ git:
     depth: false
 script: ./ci.sh
 notifications:
-    email:
+    email: 
+    aj@ajjordan.co
     #enter your email address below
         - 
